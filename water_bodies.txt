@@ -1,0 +1,706 @@
+Adige River
+Adriatic Sea
+Aegean Sea
+Afafura Sea
+Albaek Bay
+Akagera River
+Alazani River
+Alboran Sea
+Aliakmon River
+Allegheny River
+Altamaha River
+Amazon River
+Amu Darya River
+Amur River
+Amvraki Gulf
+Andaman Sea
+Aniva Bay
+Arabatskiy Bay
+Arabian Sea
+Arafura Sea
+Aral Sea
+Aras River (Armenia)
+Aras River (Azerbaijan)
+Arctic Ocean
+Argolic Gulf
+Arhus Bay
+Arkansas River
+Arno River
+Atchafalaya Bay
+Atlantic Ocean
+Bab el Mandeb
+Baffin Bay
+Balaeric Sea
+Bali Sea
+Baltic Sea
+Banda Sea
+Bandama River
+Banja Lika River
+Bann River
+Barents Sea
+Barnstaple Bay
+Bass Strait
+Baydaratskaya Bay
+Bay of Bengal
+Bay of Biscay
+Bay of Fundy
+Bay of Tinah
+Beaufort Sea
+Benue River
+Berezina River
+Bering Sea
+Bering Strait
+Big Black River
+Big Sandy River
+Black Sea
+Blackwater River
+Block Island Sound
+Bloomenstein Lake
+Bosna River
+Bosporus Strait
+Brahmaputra River
+Bridgewater Bay
+Brazos River
+Bregalnica River
+Bristol Channel
+Brunei Bay
+Bug River
+Byk River
+Caemarfon Bay
+Caledon River
+Canadian River
+Canal Du Midi
+Cape of Good Hope
+Caqueta River
+Cardigan Bay
+Caribbean Sea
+Carmarthen Bay
+Caspian Sea
+Cavalla River
+Cedar Lake
+Cedar River
+Cellebes Sea
+Celtic Sea
+Ceram Sea
+Cestos River
+Chang River (Yangtze)
+Chari River
+Chattahoochee River
+Chesapeake Bay
+Chukchi Sea
+Churchill River
+Clyde River
+Coeroeni River
+Colorado River
+Connecticut River
+Connecticut River (Mass.)
+Connecticut River (NH)
+Connecticut River (VT)
+Cook Strait
+Corantijn River
+Colombia River
+Congo River
+Congo River (Congo)
+Congo River (Source)
+Connecticut River
+Coral Sea
+Corinth Canal
+Corinthian Gulf
+Crater Lake
+Crna River
+Cuango River
+Cubango River
+Cumberland River
+Dall River
+Danube River (overall)
+Danube River (Austria)
+Danube River (Bulgaria)
+Danube River (Croatia)
+Danube River (Germany)
+Danube River (Hungary)
+Danube River (Mouths)
+Danube River (Romania)
+Danube River (Serbia)
+Darling River
+Dead Sea
+Debet River
+Dee River
+Delaware Bay
+Delaware Canal
+Delaware River (Delaware)
+Delaware River (New Jersey)
+Denmark Strait
+Des Moines River
+Dja River
+Dnieper River
+Dnieper River (Belarus)
+Dnipro River
+Dnistra River
+Dordogne River
+Douglas Bay
+Douro River (Portugal)
+Douro River (Spain)
+Don River
+Doubs River
+Drake Passage
+Drava River (Crotia)
+Drava River (Hungary)
+Drava River (Slovenia)
+Drin River
+Dvina Bay
+Dvina River
+Dvinar River
+East Sea
+East Siberian Sea
+Ebro River
+Elbe River
+Emajogi River
+Ems River
+English Channel
+Ertis River
+Essequibo River
+Euphrates River (details)
+Euphrates River (Iraq)
+Euphrates River (Syria)
+Euphrates River (Turkey)
+Evoikos Gulf
+Evros River
+Fakse Bay
+Faleme River
+Feodosiyskiy Bay
+Finger Lakes
+Firth of Clyde
+Fish River
+Flores Sea
+Fraser River
+Gambia River
+Ganges River (Bangladesh)
+Ganges River (India)
+Ganges River (Mouths)
+Garonne River
+Gauja River
+Gila River
+Glama River
+Grand Lake of the Cherokees
+Green River
+Greenland Sea
+Great Australian Bight
+Great Bear Lake
+Great Belt
+Great Etter Lake
+Great Lakes
+Great Slave Lake
+Guadalquivir River
+Guadalupe River
+Guadiana River (Portugal)
+Guadiana River (Spain)
+Guapore River
+Gulf of Aden
+Gulf of Alaska
+Gulf of Aqaba
+Gulf of Argolis
+Gulf of Bahrain
+Gulf of Bothnia
+Gulf of California
+Gulf of Carpentaria
+Gulf of Cadiz
+Gulf of Corinth
+Gulf of Finland
+Gulf of Fonseca
+Gulf of Gabes
+Gulf of Genoa
+Gulf of Guayaquil
+Gulf of Guinea
+Gulf of Honduras
+Gulf of Laconia
+Gulf of Lion
+Gulf of Maine
+Gulf of Manfredonia
+Gulf of Mannar
+Gulf of Messinia
+Gulf of Mexico
+Gulf of Mosquitos
+Gulf of Ob
+Gulf of Oman
+Gulf of Panama
+Gulf of Paria
+Gulf of Penas
+Gulf of Rega
+Gulf of St. Lawrence
+Gulf of St. Milo
+Gulf of San Jorge
+Gulf of San Matias
+Gulf of Sidra
+Gulf of Suez
+Gulf of Taranto
+Gulf of Thailand
+Gulf of Tonkin
+Gulf of Taranto
+Gulf of Valencia
+Gulf of Venice
+Hannay Bay
+Haho River
+Havel River
+Hornad River
+Housatonic River
+Huang He River (Yellow)
+Hudson Bay
+Hudson River
+Hudson Strait
+Humboldt River
+Iguazu Falls
+Illinois River
+Indal River
+Indian Ocean
+Indus River (details)
+Indus River
+Ionian Sea
+Irish Sea
+Irtysh River
+Iskur River
+Ivindo River
+James Bay
+James River (ND)
+James River (VA)
+Jammerbugten
+Jamuna River
+Java Sea
+Jubba River
+Jucar River
+Kaduna River
+Kandalaksha Bay
+Kansas River
+Kanyaru River
+Kara Sea
+Kara Strait
+Kasai River
+Kattegat Bay
+Kemi River
+Kennebec River
+Kentucky Lake
+Kentucky River
+Khatanga Gulf
+Kiel Bay
+Koge Bay
+Kokemaer
+Komoe River
+Korea Strait
+Koro Sea
+Kuban River
+Kura River (Azerbaijan)
+Kura River (Georgia)
+Kwango River
+Kyparissia Gulf
+La Perouse Strait
+Labe River
+Labrador Sea
+Laccadive Sea
+Lac de Guiers
+Lake Abaya
+Lake Abhe
+Lake Albert
+Lake Assal
+Lake Athabasca
+Lake Baykal (Baikal)
+Lake Balkhash
+Lake Bangweulu
+Lake Bodensee
+Lake Barkley
+Lake Chad
+Lake Champlain
+Lake Chew
+Lake Chilwa
+Lake Cohaha
+Lake Constance
+Lake Como
+Lake Dorian
+Lake Ebire
+Lake Edward
+Lake Erie
+Lake (Laugh) Erne
+Lake Eyre
+Lake Garda
+Lake Gatun
+Lake Geneva
+Lake George
+Lake Huron
+Lake Ihema
+Lake Inari
+Lake Izabal
+Lake Ladoga
+Lake Lugano
+Lake Lucerne
+Lake Kariba
+Lake Kossou
+Lake Kwania
+Lake Kyoga
+Lake Maggiore
+Lake Malawi
+Lake Managua
+Lake Manitoba
+Lake Manzala
+Lake Maracaibo
+Lake Mead
+Lake Michigan
+Lake Malombe
+LAke Muritz
+Lake Mweru
+Lake Nasijarv
+Lake Nassar
+Lake (Laugh) Neagh
+Lake Neuchatel
+Lake Nicaragua
+Lake Nipigon
+Lake Nyasa
+Lake of the Woods
+Lake Ohrid
+Lake Okeechobee
+Lake Onega
+Lake Ontario
+Lake Ozero Sivash
+Lake Oulujarvi
+Lake Paijanne
+Lake Peipus
+Lake Pielinen
+Lake Pontchartrain
+Lake Poopo
+Lake Powell
+Lake Prespa
+Lake Pskov
+Lake Rudolf
+Lake Rweru
+Lake St. Clair
+Lake Saimaa
+Lake Shkodra
+Lake Superior
+Lake Tahoe
+Lake Tanganyika
+Lake Tanganyika (Burundi)
+Lake Texoma
+Lake Tiberias
+Lake Titicaca
+Lake Titicaca (Bolivia)
+Lake Titicaca (Peru)
+Lake Turkana
+Lake Tuz
+Lake Van
+Lake Vanern
+Lake Vattern
+Lake Vegoritis
+Lake Victoria
+Lake Victoria (Uganda)
+Lake Volta
+Lake Volvi
+Lake Vorts-Jarv
+Lake Vygozero
+Lake Winnipeg
+Lake Winnipesaukee
+Lake Zurich
+Lake Zurichee
+Lakonikos Gulf
+Mackenzie River
+Madriu River
+Magdalena River
+Malta Channel
+Mana River
+Mangachevir Reservoir
+Marano River
+Mariager Fjord
+Maritsa River
+Maroni River
+Marowijne River
+Matochkin Strait
+Mbuluzi River
+Mecklenburger Bay
+Mediterranean Sea
+Medjerda River
+Mekong River (Cambodia)
+Mekong River (China)
+Mekong River (Laos)
+Mekong River (Thailand)
+Mekong River (Mouth)
+Menai Strait
+Merrimack River (Mass.)
+Merrimack River (NH)
+Messina Strait
+Messinia Gulf
+Meuse River (Belgium)
+Meuse River (France)
+Meuse River (Netherlands)
+Mezen Bay
+Mezen River
+Miami River
+Milo River
+Minnesota River
+Mino River
+Mississippi River
+Mississippi River (mouth)
+Mississippi River (source)
+Missouri River
+Moa River
+Mobile Bay
+Mohawk River
+Molucca Sea
+Mono River
+Monongahela River
+Morava River (Czech Rep)
+Morava River (Serbia)
+Morecambe Bay
+Moselle River
+Mozambique Channel
+Muonio River
+Murray River
+Muskingham River
+Napo River
+Narragansett Bay
+Neches River
+Neder River
+Neisse River
+Neman River
+Neris River
+Ngounie River
+Ngwavuma River
+Niarbyl Bay
+Niger River
+Niger River (Nigeria)
+Nile River
+Nile River (Egypt)
+Nile River (Sudan)
+Nile River (Albert)
+Nile River (Blue)
+Nile River (Mountain)
+Nile River (Victoria)
+Nile River (White)
+Niobrara River
+Nistru River
+North Sea
+North Channel
+North Sea Canal
+Norwegian Sea
+Notec River
+Nueces River
+Ob' River
+Ocmulgee River
+Oder River (Czech Rep)
+Oder River (Germany)
+Oder River (Poland)
+Ogooue River
+Ohio River
+Olenekskiy Bay
+Olt River
+Onega Bay
+Onega River
+Orange River
+Orange River Lesotho
+Orange River Namibia
+Orinoco River
+Oti River
+Oueme River
+Oulu River
+Ounas River
+Ouse River
+Oresund Sound
+Oyapuck River
+Pacific Ocean
+Pagasitikos Gulf
+Palk Bay
+Panama Canal
+Paraguay River
+Parana River (Argentina)
+Parana River (Brazil)
+Parana River Paraguay
+Parnu River
+Patra Gulf
+Pawcatuck River
+Patuxent River
+Peace River
+Pearl River (Mississippi)
+Pecos River
+Pee Dee River
+Penobscot River
+Penzhin Bay
+Persian Gulf
+Philippine Sea
+Pinios River
+Pivdennyy Bug
+Platte River
+Po River
+Potomac River
+Pribyat River
+Prut River (Moldova)
+Prut River (Romania)
+Pyramid Lake
+Ramsey Bay
+Randers Fjord
+Raut River
+Razdan River
+Red River
+Red River (North Dakota)
+Red Sea
+Republican River
+Rhine River
+Rhine River (France)
+Rhine River (Germany)
+Rhine River (Liechtenstein)
+Rhine River (Netherlands)
+Rhone River
+Ringkobing Fjord
+Rio Cachew
+Rio Geba
+Rio Grande River
+Rio de la Plata
+Rio Negro
+Rio Uruguay
+Rioni River
+Roanoke River
+Rokel River
+Ross Sea
+Rufiji River
+Rupert Bay
+Rusizi River
+St. Bride's Bay
+St. George's Channel
+St. Johns River (Florida)
+St. John's River (Maine)
+Saale River
+Sabibe Lake
+Sabine River
+Sacramento River
+Saimaa Canal
+Saint Lawrence River
+Saint Lawrence Seaway
+Sakhalin Gulf
+Saline River
+Salt Lake
+Salway Firth
+Sanaga River
+San Antonio River
+Sangha River
+Sambre River
+Samso Belt
+San Joaquin River
+San Marino River
+Sannikov Strait
+Saone River
+Saronic Gulf
+Sassandra River
+Sava River(Bosnia)
+Sava River(Croatia)
+Sava River(Serbia)
+Sava River(Slovenia)
+Savannah River
+Savu Sea
+Schelde River
+Scotia Sea
+Scioto River
+Scituate Res.
+Sea of Azov
+Sea of Crete
+Sea of the Hebrides
+Sea of Japan
+Sea of Marmara
+Sea of Okhotsk
+Seine River
+Senegal River
+Sevana Lake
+Seven Seas
+Severn River
+Severn River(mouth)
+Sewa River
+Shabele River
+Shannon River
+Shark Bay
+Shelikhov Gulf
+Shenandoah River
+Sil River
+Sirba River
+Smoky Hill River
+Snake River
+Snake River (Idaho)
+South China Sea
+South Platte River
+Southern Ocean
+Spree River
+Spencer Gulf
+Sron River
+St. John River
+St. Paul River
+Strait of Bonifacio
+Strait of Dover
+Strait of Georgia
+Strait of Gibraltar
+Strait of Hormuz
+Strait of Kerch
+Strait of Otranto
+Strait of Malacca
+Strait of Magellan
+Strait of Otranto
+Strait of Sicily
+Sula Sea
+Suez Canal
+Susquehanna River
+Susquehanna River (Pennsylvania)
+Swansea Bay
+Taganrog Gulf
+Tagus River (description)
+Tagus River (Portugal)
+Tagus River (Spain)
+Taia River
+Taiwan Strait
+Tana River
+Tana River
+Tannis Bay
+Tasman Sea
+Tatar Strait
+Tennessee River
+Teno River
+Terpeniya Bay
+Thames River
+Thermaic Gulf
+Ubangui River
+Ucayali River
+Uele River
+Ugangi River
+Ume River
+Ungava Bay
+Uolo River
+Utah Lake
+Vah River
+Valira River
+Vardar River
+Venta River
+Victoria Falls
+Vilkitshogo Strait
+Vistula River
+Vijose River
+Vitava River
+Vistula River
+Volga River (overall)
+Volga River
+Volta (Black) Burkina
+Volta(Black) Ghana
+Volta (Red)
+Volta (White) Burkina
+Volta (White) Ghana
+Wabash River
+Wabash River (Indiana)
+Waddenzeer
+Weddell Sea
+Weser River
+Western Dvina River
+White River
+White River (Dakotas)
+White Sea
+White Sea-Baltic Canal
+Wye River (England)
+Wye River (Wales)
+Yadkin River
+Yangtze River (Chang)
+Yanskiy Bay
+Yazoo River
+Yellow River (Haung He)
+Yellow Sea
+Yellowstone River
+Yenisey River
+Yukon River
+Zambezi River
